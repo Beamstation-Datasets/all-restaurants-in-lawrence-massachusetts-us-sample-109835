@@ -1,0 +1,22 @@
+{
+  "base_price": 1950,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "census",
+  "config_description": "Full restaurant census covering Lawrence, Massachusetts. Filtered by the Restaurants category group, providing business profiles, review counts, contact information, and competitive benchmarks. Refreshed weekly.",
+  "config_name": "All Restaurants in Lawrence, Massachusetts, US",
+  "export_job_id": "f8a25ad0-abf5-4622-9994-d9ce34368241",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 109835,
+  "location_name": "Lawrence",
+  "location_type": "city",
+  "repo_name": "all-restaurants-in-lawrence-massachusetts-us-sample-109835",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/109835/beamstation_109835_restaurants-us-ma_SAMPLE_DIST.csv",
+  "sample_pct": 9.93,
+  "sample_records": 28,
+  "sample_sha256": "06e205361548f12484c8e30ee2ef9c03c6efc5382e77350df57a5153cb3f4bc1",
+  "sample_size_bytes": 108785,
+  "total_records": 282,
+  "updated_at": "2026-04-07T10:55:18.947913+00:00"
+}
