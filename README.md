@@ -1,6 +1,6 @@
 # All Restaurants in Lawrence, Massachusetts, US
 
-> Free BeamStation sample export with 26 rows and masked direct-contact fields.
+> Free BeamStation sample export with 28 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `109835` |
 | Location | Lawrence |
 | Category | Restaurants |
-| Full dataset size | 264 records |
-| Free sample size | 26 records (9.85%) |
-| Last export | 2026-04-21T11:12:02.295206+00:00 |
+| Full dataset size | 280 records |
+| Free sample size | 28 records (10.0%) |
+| Last export | 2026-04-28T11:39:33.116901+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-lawrence-massachusetts-us-sample-109835/releases/download/sample-latest/beamstation_109835_restaurants-us-ma_SAMPLE_DIST.csv) |
 
 ## What is in this sample
