@@ -1,12 +1,12 @@
 {
-  "export_job_id": "ed7479fd-6cbf-4f77-a23c-b536fa6b9923",
+  "export_job_id": "efd9e4be-7e3b-4ba5-a8e1-b3ab8991ad3d",
   "id_short": 109835,
-  "published_at": "2026-04-21T19:03:03Z",
+  "published_at": "2026-04-28T19:51:06Z",
   "repo_name": "all-restaurants-in-lawrence-massachusetts-us-sample-109835",
   "sample_asset_name": "beamstation_109835_restaurants-us-ma_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/109835/beamstation_109835_restaurants-us-ma_SAMPLE_DIST.csv",
-  "sample_records": 26,
-  "sample_sha256": "a5104835cf91325f68190b537b668498c585a17b85b126bd61a51b1a461babae",
-  "sample_size_bytes": 100195,
-  "total_records": 264
+  "sample_records": 28,
+  "sample_sha256": "f2603a61d135831d522b359b4058c2f71393775a3be17f1ab9aed8adecbe525b",
+  "sample_size_bytes": 100264,
+  "total_records": 280
 }
